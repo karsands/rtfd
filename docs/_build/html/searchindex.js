@@ -1,1 +1,1 @@
-Search.setIndex({docnames:["index"],envversion:52,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{},titles:["&lt;no title&gt;"],titleterms:{}})
+Search.setIndex({docnames:["index"],envversion:52,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{hello:0,world:0},titles:["&lt;no title&gt;"],titleterms:{}})
